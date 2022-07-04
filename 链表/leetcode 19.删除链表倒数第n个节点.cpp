@@ -8,6 +8,7 @@
 5.删除倒数第n个节点
 6.返回dummy->next（因为dummy此时还在头节点前,返回它的后续节点）
 
+细节：虚拟节点处理问题时不需要判空的
 
 /**
  * Definition for singly-linked list.
